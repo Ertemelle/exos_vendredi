@@ -1,6 +1,6 @@
 puts "quel est ton age?"
 print ">"
-age = gets.chomp§.to_i
+age = gets.chomp.to_i
 x=0
 y=0
 while age <= 2017
